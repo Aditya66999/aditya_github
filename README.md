@@ -1,4 +1,4 @@
 # aditya_github
 This is my first repo
 
-<p> Hello i am aditya</p>
+<p> Hello i am Aditya</p>
